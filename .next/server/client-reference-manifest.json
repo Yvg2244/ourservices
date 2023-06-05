@@ -1204,6 +1204,20 @@
       ],
       "async": false
     },
+    "F:\\newbiePractice\\yvgupta-portfoilio\\app\\globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "F:\\newbiePractice\\yvgupta-portfoilio\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\icons8-cross-platform.png": {
       "id": "(app-client)/./assests/icons8-cross-platform.png",
       "name": "*",
@@ -1531,20 +1545,6 @@
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "F:\\newbiePractice\\yvgupta-portfoilio\\app\\globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "F:\\newbiePractice\\yvgupta-portfoilio\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
