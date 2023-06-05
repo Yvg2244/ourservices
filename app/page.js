@@ -274,7 +274,7 @@ export default function Home() {
             Absolutely! We have a portfolio section on our website where you can
             find examples of our previous projects. Additionally, we can provide
             references upon request to give you a better understanding of our
-            clients' satisfaction.
+            clients satisfaction.
           </AccordionBody>
         </Accordion>
         <Accordion open={open === 9} animate={customAnimation}>
@@ -286,7 +286,7 @@ export default function Home() {
           </AccordionHeader>
           <AccordionBody className="text-white font-normal hover:text-gray-400">
             Getting started is simple! Reach out to us through our contact page
-            or by filling out the inquiry form. We'll get in touch with you
+            or by filling out the inquiry form. We&apos;ll get in touch with you
             promptly to discuss your project requirements and guide you
             through the next steps.
           </AccordionBody>
