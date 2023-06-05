@@ -16,15 +16,15 @@ export default function Home() {
       <section className="flex flex-col relative  top-[20vh] pb-[10rem] mb-[5rem]  items-center justify-center gap-[70px]">
         <h1 className="flex flex-col  text-[46px]  font-bold  ">
           <span className=" px-2 bg-clip-text text-transparent italic bg-gradient-to-r from-pink-500 to-violet-500">
-            Let's bring
+            Let&apos;s bring
           </span>{" "}
-          <span className="px-2"> UI's to life.</span>
+          <span className="px-2"> UI&apos;s to life.</span>
         </h1>
         <p
           className="px-[10px] text-center opacity-60
         "
         >
-          "Experience Web Design at It's Finest: Seamless Functionality,
+          "Experience Web Design at It&apos;s Finest: Seamless Functionality,
           Striking Visuals and Unforgettable User Experience"
         </p>
         <Button
@@ -36,7 +36,7 @@ export default function Home() {
       </section>
       <article className="flex flex-col text-center items-center justify-center mb-10">
         <h1 className="flex flex-col  text-[30px]  font-bold  ">
-          Bringing UI's To Life
+          Bringing UI&apos;s To Life
         </h1>
         <p className="px-[10px] text-center opacity-70 mt-[1rem]">
           Where Design Meets Functionality: Showcasing the Essence of My Web
@@ -45,7 +45,7 @@ export default function Home() {
         <Box className="flex mt-[6rem]">
           <Container className="relative flex flex-col items-center py-[3rem] h-auto w-[100vw] bg-[#1E1A25] ">
             <Container className="w-[100vw] h-[3rem] bg-primary absolute top-[-1rem] rounded-bl-[45%] rounded-br-[45%]"></Container>
-            <Image
+            <Image alt="" 
               src={project1}
               height={200}
               className="mt-[3rem] mb-[2rem]"
@@ -103,23 +103,23 @@ export default function Home() {
           </p>
           <Container className="flex flex-col text-[16px] font-bold gap-5">
             <div className="flex flex-col p-[16px] bg-[#0D0D0D] rounded-md items-start gap-2">
-              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image height={32} src={icon_frontend}/></div>
+              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image alt=""  height={32} src={icon_frontend}/></div>
               <p>Full stack developement</p>
             </div>
             <div className="flex flex-col p-[16px] bg-[#0D0D0D] rounded-md items-start gap-2">
-              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image height={32} src={icon_seo}/></div>
+              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image alt=""  height={32} src={icon_seo}/></div>
               <p>Search Engine Optimizations</p>
             </div>
             <div className="flex flex-col p-[16px] bg-[#0D0D0D] rounded-md items-start gap-2">
-              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image height={32} src={icon_ui}/></div>
+              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image alt=""  height={32} src={icon_ui}/></div>
               <p>UI/UX prototyping</p>
             </div>
             <div className="flex flex-col p-[16px] bg-[#0D0D0D] rounded-md items-start gap-2">
-              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image height={32} src={icon_ux}/></div>
+              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image alt=""  height={32} src={icon_ux}/></div>
               <p>Seamless User Interface</p>
             </div>
             <div className="flex flex-col p-[16px] bg-[#0D0D0D] rounded-md items-start gap-2">
-              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image height={32} src={icon_cross}/></div>
+              <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image alt=""  height={32} src={icon_cross}/></div>
               <p>Cross platform compatibility</p>
             </div>
           </Container>
