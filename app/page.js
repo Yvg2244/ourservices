@@ -24,8 +24,8 @@ export default function Home() {
           className="px-[10px] text-center opacity-60
         "
         >
-          "Experience Web Design at It&apos;s Finest: Seamless Functionality,
-          Striking Visuals and Unforgettable User Experience"
+          Experience Web Design at It&apos;s Finest: Seamless Functionality,
+          Striking Visuals and Unforgettable User Experience
         </p>
         <Button
           sx={{ color: "white" }}
@@ -98,9 +98,8 @@ export default function Home() {
           <h4>What we can do?</h4>
           <h2 className="flex flex-col  text-[30px]  font-bold  ">Services</h2>
           <p className="px-[10px] text-center opacity-70 mt-[1rem]">
-            “ Building Digital Dreams: Our Web Services Bring Your Vision to
-            Life ”
-          </p>
+            Building Digital Dreams: Our Web Services Bring Your Vision to
+            Life           </p>
           <Container className="flex flex-col text-[16px] font-bold gap-5">
             <div className="flex flex-col p-[16px] bg-[#0D0D0D] rounded-md items-start gap-2">
               <div className="bg-gradient-to-r from-0% from-[#EE4578] to-100% to-[#FF6363] p-2 rounded-md"><Image alt=""  height={32} src={icon_frontend}/></div>
