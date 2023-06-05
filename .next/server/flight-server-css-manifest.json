@@ -1,0 +1,14 @@
+{
+  "cssImports": {
+    "F:\\newbiePractice\\yvgupta-portfoilio\\app\\layout.js": [
+      "F:\\newbiePractice\\yvgupta-portfoilio\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "F:\\newbiePractice\\yvgupta-portfoilio\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "F:\\newbiePractice\\yvgupta-portfoilio\\app\\page": [
+      "F:\\newbiePractice\\yvgupta-portfoilio\\app\\globals.css",
+      "F:\\newbiePractice\\yvgupta-portfoilio\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
