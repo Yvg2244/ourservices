@@ -230,32 +230,6 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./assests/icon-frontend.png": {
-      "*": {
-        "id": "(sc_client)/./assests/icon-frontend.png",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./assests/icon-frontend.png",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./assests/icon-frontend.png",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./assests/icons8-cross-platform.png": {
       "*": {
         "id": "(sc_client)/./assests/icons8-cross-platform.png",
@@ -275,6 +249,32 @@ self.__RSC_MANIFEST={
       },
       "default": {
         "id": "(sc_client)/./assests/icons8-cross-platform.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assests/icons8-frontend.png": {
+      "*": {
+        "id": "(sc_client)/./assests/icons8-frontend.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assests/icons8-frontend.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assests/icons8-frontend.png",
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
@@ -405,6 +405,32 @@ self.__RSC_MANIFEST={
       },
       "default": {
         "id": "(sc_client)/./assests/project-redowl.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./assests/splash.png": {
+      "*": {
+        "id": "(sc_client)/./assests/splash.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assests/splash.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assests/splash.png",
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
@@ -1192,30 +1218,6 @@ self.__RSC_MANIFEST={
         "static/css/app/layout.css"
       ]
     },
-    "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\icon-frontend.png": {
-      "id": "(app-client)/./assests/icon-frontend.png",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\icon-frontend.png#": {
-      "id": "(app-client)/./assests/icon-frontend.png",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\icon-frontend.png#default": {
-      "id": "(app-client)/./assests/icon-frontend.png",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
     "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\icons8-cross-platform.png": {
       "id": "(app-client)/./assests/icons8-cross-platform.png",
       "name": "*",
@@ -1234,6 +1236,30 @@ self.__RSC_MANIFEST={
     },
     "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\icons8-cross-platform.png#default": {
       "id": "(app-client)/./assests/icons8-cross-platform.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\icons8-frontend.png": {
+      "id": "(app-client)/./assests/icons8-frontend.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\icons8-frontend.png#": {
+      "id": "(app-client)/./assests/icons8-frontend.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\icons8-frontend.png#default": {
+      "id": "(app-client)/./assests/icons8-frontend.png",
       "name": "default",
       "chunks": [
         "app/page:static/chunks/app/page.js"
@@ -1354,6 +1380,30 @@ self.__RSC_MANIFEST={
     },
     "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\project-redowl.png#default": {
       "id": "(app-client)/./assests/project-redowl.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\splash.png": {
+      "id": "(app-client)/./assests/splash.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\splash.png#": {
+      "id": "(app-client)/./assests/splash.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "F:\\newbiePractice\\yvgupta-portfoilio\\assests\\splash.png#default": {
+      "id": "(app-client)/./assests/splash.png",
       "name": "default",
       "chunks": [
         "app/page:static/chunks/app/page.js"
