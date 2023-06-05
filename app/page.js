@@ -90,7 +90,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold">DevsClash</h3>
               <p className="w-full text-start leading-7">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Voluptatum aliquid unde dolorum assumenda! Unde libero atque
+                Voluptatum aliquid unde dolorum assumenda. Unde libero atque
                 similique adipisci recusandae distinctio et blanditiis nostrum
                 cum eveniet provident fugiat iusto, incidunt fuga!
               </p>
